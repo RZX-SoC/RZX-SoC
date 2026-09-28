@@ -24,10 +24,13 @@ marcioh@cyberlab:~$ ./build-portfolio.sh
 [OK] Documentation
 Ready.
 ```
+---
 
 ## 👤 Sobre mim
 
 Estudante de **Defesa Cibernética** apaixonado por entender como as coisas funcionam por baixo do capô. Foco em infraestrutura, redes, administração de sistemas e segurança da informação.
+
+Venho de **mais de 5 anos de experiência com Python**, construindo automações, scripts e ferramentas — bagagem que hoje uso para acelerar tarefas administrativas, analisar dados, automatizar rotinas de infraestrutura e apoiar estudos em segurança.
 
 Acredito que aprender é **construir, quebrar, consertar e documentar** — por isso cada laboratório que faço vira um projeto público com arquitetura, configuração, testes e resultados.
 
@@ -37,15 +40,19 @@ Estou construindo uma base sólida em ambientes **Windows** e **Linux**, pratica
 
 ## 🛠️ O que faço
 
+- 🐍 **Desenvolvimento & Automação** — +5 anos de Python criando scripts, automações e ferramentas para resolver problemas reais.
 - 🖥️ **Infraestrutura** — monto e administro ambientes Windows Server e Linux em laboratórios virtualizados com Hyper-V.
 - 🌐 **Redes** — configuro e testo TCP/IP, DNS, DHCP, VLANs e conectividade entre hosts e domínios.
 - 🛡️ **Segurança** — aplico hardening, políticas de senha, controle de acesso, permissões NTFS e fundamentos de SOC.
 - 📝 **Documentação** — registro cada etapa com arquitetura, comandos, prints de tela e resultados de testes.
-- ⚙️ **Automação** — uso Git, GitHub e PowerShell para versionar e automatizar tarefas administrativas.
+- ⚙️ **Versionamento** — uso Git, GitHub e PowerShell para versionar e automatizar tarefas administrativas.
 
 ---
 
 ## 📚 Competências
+
+**Python** — *5+ anos de experiência*
+`Automação` `Scripts` `APIs` `Web Scraping` `Manipulação de Dados` `Ferramentas CLI`
 
 **Networking**
 `TCP/IP` `DNS` `DHCP` `VLANs` `Cisco`
@@ -59,7 +66,7 @@ Estou construindo uma base sólida em ambientes **Windows** e **Linux**, pratica
 **Linux**
 `Administração` `Bash` `Permissões` `Serviços`
 
-**Virtualização & Automação**
+**Virtualização & Ferramentas**
 `Hyper-V` `Git` `GitHub` `PowerShell`
 
 ---
@@ -68,12 +75,12 @@ Estou construindo uma base sólida em ambientes **Windows** e **Linux**, pratica
 
 | # | Área | Foco |
 |:---:|---|---|
-| 01 | **Networking** | TCP/IP, DNS, DHCP, VLANs, troubleshooting e fundamentos Cisco |
-| 02 | **Windows Server** | Active Directory, usuários, grupos, GPO, DNS e administração de domínio |
-| 03 | **Cybersecurity** | Hardening, controle de acesso, segurança de redes, monitoramento e SOC |
-| 04 | **Linux** | Administração, serviços, permissões, terminal e segurança |
-| 05 | **Virtualização** | Hyper-V e ambientes isolados para testes |
-| 06 | **Automation** | Git, GitHub, PowerShell e automação de tarefas |
+| 01 | **Python** | Automação, scripts, ferramentas CLI e apoio a tarefas de infraestrutura e segurança |
+| 02 | **Networking** | TCP/IP, DNS, DHCP, VLANs, troubleshooting e fundamentos Cisco |
+| 03 | **Windows Server** | Active Directory, usuários, grupos, GPO, DNS e administração de domínio |
+| 04 | **Cybersecurity** | Hardening, controle de acesso, segurança de redes, monitoramento e SOC |
+| 05 | **Linux** | Administração, serviços, permissões, terminal e segurança |
+| 06 | **Virtualização & Automation** | Hyper-V, Git, GitHub e automação de tarefas |
 
 ---
 

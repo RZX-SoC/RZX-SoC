@@ -2,4 +2,4 @@
 
 ![Typing Headline](https://coolreadme.xyz/api/typing-card?user=RZX-SoC&theme=dark&accent=%2300FF88&lines=Building%2BAI%2Btools%7COpen%2Bto%2Bwork)
 
-![Experience](https://coolreadme.xyz/api/experience-card?user=RZX-SoC&theme=dark&accent=%2300FF88&entries=Vercel%7CFrontend%20Engineer%7C2023%E2%80%94Now%7C%3B%3BOpenAI%7CML%20Intern%7C2022%E2%80%942023%7C%3B%3BMIT%7CBSc%20Computer%20Science%7C2018%E2%80%942022%7C)
+![Projects Gallery](https://coolreadme.xyz/api/projects-gallery?user=RZX-SoC&theme=dark&projects=-active-directory-infrastructure-lab%7C%7CCode%7C%7Chttps%3A%2F%2Fgithub.com%2FRZX-SoC%2F-active-directory-infrastructure-lab&layout=spotlight&accent=00FF88)

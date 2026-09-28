@@ -1,5 +1,26 @@
-![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=RZX-SoC&theme=dark&accent=%2300FF88&title=Yerdaulet%20Damir&subtitle=Full-stack%20engineer%20%C2%B7%20building%20in%20public)
 
-![Typing Headline](https://coolreadme.xyz/api/typing-card?user=RZX-SoC&theme=dark&accent=%2300FF88&lines=Building%2BAI%2Btools%7COpen%2Bto%2Bwork)
+<!--
+  README de perfil — Marcio Henrique (RZX-SoC)
+  Identidade visual espelhada do portfólio: https://marciohenrique.netlify.app
+-->
 
-![Projects Gallery](https://coolreadme.xyz/api/projects-gallery?user=RZX-SoC&theme=dark&projects=-active-directory-infrastructure-lab%7C%7CCode%7C%7Chttps%3A%2F%2Fgithub.com%2FRZX-SoC%2F-active-directory-infrastructure-lab&layout=spotlight&accent=00FF88)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:63f5b0,100:0d1117&height=200&section=header&text=Marcio%20Henrique&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Cyber%20Defense%20%E2%80%A2%20Infrastructure%20%E2%80%A2%20Networking&descAlign=50&descAlignY=62&descSize=16" />
+
+![Status](https://img.shields.io/badge/STATUS-ONLINE-63f5b0?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/FOCUS-CYBER%20DEFENSE-63f5b0?style=for-the-badge&labelColor=0d1117)
+![Location](https://img.shields.io/badge/LOCATION-BRAZIL-63f5b0?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+---
+
+```bash
+$ whoami
+marcioh@cyberlab:~$ ./build-portfolio.sh
+[OK] Infrastructure
+[OK] Networking
+[OK] Security
+[OK] Documentation
+Ready.

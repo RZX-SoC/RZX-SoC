@@ -1,3 +1,3 @@
-![Hero](https://coolreadme.xyz/api/hacker?user=RZX-SoC&status=SHIPPING+CODE&accent=%2300FF88)
+![Hero](https://coolreadme.xyz/api/hacker?user=RZX-SoC&status=Coding:Python&accent=%2300FF88)
 
 
